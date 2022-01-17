@@ -1,1 +1,0 @@
-@W: MT529 :"f:\mel5250\vhdl\ice40\4_digit_seven_seg_counter\top.vhd":48:10:48:11|Found inferred clock top|mclock which controls 26 sequential elements including cntDiv[25:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
