@@ -1,0 +1,27 @@
+# ##############################################################################
+# iCEcube PCF
+# Family & Device:    iCE40HX8K
+# Package:            CT256
+# ##############################################################################
+
+###     IOSet
+
+### SEVEN segment inputs and outputs ########################################### 
+
+set_io DIGIT1 D14
+set_io DIGIT2 D16
+set_io DIGIT3 C16
+set_io DIGIT4 B16
+set_io Y[7] D15
+set_io Y[6] E16
+set_io Y[5] E14
+set_io Y[4] F16
+set_io Y[3] F15
+set_io Y[2] G16
+set_io Y[1] G15
+set_io Y[0] H16
+################################################################################
+
+## main clock
+
+set_io mclock J3
