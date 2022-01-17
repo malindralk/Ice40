@@ -1,0 +1,9 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synwork\seven_seg_counter_comp.srs  -hdllog  F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synlog\seven_seg_counter_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\counter.vhd -lib work F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd -lib work F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd 
+rc:0 success:1 runtime:3
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synwork\seven_seg_counter_comp.srs|io:o|time:1642255638|size:3783|exec:0
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synlog\seven_seg_counter_compiler.srr|io:o|time:1642255640|size:3545|exec:0
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\counter.vhd|io:i|time:1642254480|size:1138|exec:0
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd|io:i|time:1642254026|size:798|exec:0
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd|io:i|time:1642255594|size:1843|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1642108081|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1642108083|size:1754112|exec:1

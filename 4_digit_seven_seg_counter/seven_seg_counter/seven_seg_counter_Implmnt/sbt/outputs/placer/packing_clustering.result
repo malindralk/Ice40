@@ -1,0 +1,76 @@
+ble_pack un2_cntdiv_1_cry_1_c_LC_50 {un2_cntdiv_1_cry_1_c}
+ble_pack un2_cntdiv_1_cry_2_c_LC_56 {un2_cntdiv_1_cry_2_c}
+ble_pack un2_cntdiv_1_cry_3_c_LC_57 {un2_cntdiv_1_cry_3_c}
+ble_pack un2_cntdiv_1_cry_4_c_LC_58 {un2_cntdiv_1_cry_4_c}
+ble_pack un2_cntdiv_1_cry_5_c_LC_59 {un2_cntdiv_1_cry_5_c}
+ble_pack un2_cntdiv_1_cry_6_c_LC_60 {un2_cntdiv_1_cry_6_c}
+ble_pack un2_cntdiv_1_cry_7_c_LC_61 {un2_cntdiv_1_cry_7_c}
+ble_pack un2_cntdiv_1_cry_8_c_LC_62 {un2_cntdiv_1_cry_8_c}
+clb_pack PLB_0 {un2_cntdiv_1_cry_1_c_LC_50, un2_cntdiv_1_cry_2_c_LC_56, un2_cntdiv_1_cry_3_c_LC_57, un2_cntdiv_1_cry_4_c_LC_58, un2_cntdiv_1_cry_5_c_LC_59, un2_cntdiv_1_cry_6_c_LC_60, un2_cntdiv_1_cry_7_c_LC_61, un2_cntdiv_1_cry_8_c_LC_62}
+ble_pack un2_cntdiv_1_cry_9_c_LC_63 {un2_cntdiv_1_cry_9_c}
+ble_pack un2_cntdiv_1_cry_10_c_LC_40 {un2_cntdiv_1_cry_10_c}
+ble_pack un2_cntdiv_1_cry_11_c_LC_41 {un2_cntdiv_1_cry_11_c}
+ble_pack un2_cntdiv_1_cry_12_c_LC_42 {un2_cntdiv_1_cry_12_c}
+ble_pack un2_cntdiv_1_cry_13_c_LC_43 {un2_cntdiv_1_cry_13_c}
+ble_pack un2_cntdiv_1_cry_14_c_LC_44 {un2_cntdiv_1_cry_14_c}
+ble_pack un2_cntdiv_1_cry_15_c_LC_45 {un2_cntdiv_1_cry_15_c}
+ble_pack un2_cntdiv_1_cry_16_c_LC_46 {un2_cntdiv_1_cry_16_c}
+clb_pack PLB_1 {un2_cntdiv_1_cry_9_c_LC_63, un2_cntdiv_1_cry_10_c_LC_40, un2_cntdiv_1_cry_11_c_LC_41, un2_cntdiv_1_cry_12_c_LC_42, un2_cntdiv_1_cry_13_c_LC_43, un2_cntdiv_1_cry_14_c_LC_44, un2_cntdiv_1_cry_15_c_LC_45, un2_cntdiv_1_cry_16_c_LC_46}
+ble_pack un2_cntdiv_1_cry_17_c_LC_47 {un2_cntdiv_1_cry_17_c}
+ble_pack un2_cntdiv_1_cry_18_c_LC_48 {un2_cntdiv_1_cry_18_c}
+ble_pack un2_cntdiv_1_cry_19_c_LC_49 {un2_cntdiv_1_cry_19_c}
+ble_pack un2_cntdiv_1_cry_20_c_LC_51 {un2_cntdiv_1_cry_20_c}
+ble_pack un2_cntdiv_1_cry_21_c_LC_52 {un2_cntdiv_1_cry_21_c}
+ble_pack un2_cntdiv_1_cry_22_c_LC_53 {un2_cntdiv_1_cry_22_c}
+ble_pack un2_cntdiv_1_cry_23_c_LC_54 {un2_cntdiv_1_cry_23_c}
+ble_pack un2_cntdiv_1_cry_24_c_LC_55 {un2_cntdiv_1_cry_24_c}
+clb_pack PLB_2 {un2_cntdiv_1_cry_17_c_LC_47, un2_cntdiv_1_cry_18_c_LC_48, un2_cntdiv_1_cry_19_c_LC_49, un2_cntdiv_1_cry_20_c_LC_51, un2_cntdiv_1_cry_21_c_LC_52, un2_cntdiv_1_cry_22_c_LC_53, un2_cntdiv_1_cry_23_c_LC_54, un2_cntdiv_1_cry_24_c_LC_55}
+ble_pack un2_cntdiv_1_cry_24_c_RNI73PB_LC_38 {un2_cntdiv_1_cry_24_c_RNI73PB}
+ble_pack cntDiv[25]_LC_39 {cntDiv[25], cntDiv_25_THRU_LUT4_0}
+clb_pack PLB_3 {un2_cntdiv_1_cry_24_c_RNI73PB_LC_38, cntDiv[25]_LC_39}
+ble_pack un2_cntdiv_cry_1_c_LC_64 {un2_cntdiv_cry_1_c}
+ble_pack cntDiv[2]_LC_13 {cntDiv[2], un2_cntdiv_cry_2_c, cntDiv_RNO[2]}
+ble_pack cntDiv[3]_LC_19 {cntDiv[3], un2_cntdiv_cry_3_c, cntDiv_RNO[3]}
+ble_pack cntDiv[4]_LC_20 {cntDiv[4], un2_cntdiv_cry_4_c, cntDiv_RNO[4]}
+ble_pack cntDiv[5]_LC_21 {cntDiv[5], un2_cntdiv_cry_5_c, cntDiv_RNO[5]}
+ble_pack cntDiv[6]_LC_22 {cntDiv[6], un2_cntdiv_cry_6_c, cntDiv_RNO[6]}
+ble_pack cntDiv[7]_LC_23 {cntDiv[7], un2_cntdiv_cry_7_c, cntDiv_RNO[7]}
+ble_pack cntDiv[8]_LC_24 {cntDiv[8], un2_cntdiv_cry_8_c, cntDiv_RNO[8]}
+clb_pack PLB_4 {un2_cntdiv_cry_1_c_LC_64, cntDiv[2]_LC_13, cntDiv[3]_LC_19, cntDiv[4]_LC_20, cntDiv[5]_LC_21, cntDiv[6]_LC_22, cntDiv[7]_LC_23, cntDiv[8]_LC_24}
+ble_pack cntDiv[9]_LC_25 {cntDiv[9], un2_cntdiv_cry_9_c, cntDiv_RNO[9]}
+ble_pack cntDiv[10]_LC_3 {cntDiv[10], un2_cntdiv_cry_10_c, cntDiv_RNO[10]}
+ble_pack cntDiv[11]_LC_4 {cntDiv[11], un2_cntdiv_cry_11_c, cntDiv_RNO[11]}
+ble_pack cntDiv[12]_LC_5 {cntDiv[12], un2_cntdiv_cry_12_c, cntDiv_RNO[12]}
+ble_pack cntDiv[13]_LC_6 {cntDiv[13], un2_cntdiv_cry_13_c, cntDiv_RNO[13]}
+ble_pack cntDiv[14]_LC_7 {cntDiv[14], un2_cntdiv_cry_14_c, cntDiv_RNO[14]}
+ble_pack cntDiv[15]_LC_8 {cntDiv[15], un2_cntdiv_cry_15_c, cntDiv_RNO[15]}
+ble_pack cntDiv[16]_LC_9 {cntDiv[16], un2_cntdiv_cry_16_c, cntDiv_RNO[16]}
+clb_pack PLB_5 {cntDiv[9]_LC_25, cntDiv[10]_LC_3, cntDiv[11]_LC_4, cntDiv[12]_LC_5, cntDiv[13]_LC_6, cntDiv[14]_LC_7, cntDiv[15]_LC_8, cntDiv[16]_LC_9}
+ble_pack cntDiv[17]_LC_10 {cntDiv[17], un2_cntdiv_cry_17_c, cntDiv_RNO[17]}
+ble_pack cntDiv[18]_LC_11 {cntDiv[18], un2_cntdiv_cry_18_c, cntDiv_RNO[18]}
+ble_pack cntDiv[19]_LC_12 {cntDiv[19], un2_cntdiv_cry_19_c, cntDiv_RNO[19]}
+ble_pack cntDiv[20]_LC_14 {cntDiv[20], un2_cntdiv_cry_20_c, cntDiv_RNO[20]}
+ble_pack cntDiv[21]_LC_15 {cntDiv[21], un2_cntdiv_cry_21_c, cntDiv_RNO[21]}
+ble_pack cntDiv[22]_LC_16 {cntDiv[22], un2_cntdiv_cry_22_c, cntDiv_RNO[22]}
+ble_pack cntDiv[23]_LC_17 {cntDiv[23], un2_cntdiv_cry_23_c, cntDiv_RNO[23]}
+ble_pack cntDiv[24]_LC_18 {cntDiv[24], cntDiv_RNO[24]}
+clb_pack PLB_6 {cntDiv[17]_LC_10, cntDiv[18]_LC_11, cntDiv[19]_LC_12, cntDiv[20]_LC_14, cntDiv[21]_LC_15, cntDiv[22]_LC_16, cntDiv[23]_LC_17, cntDiv[24]_LC_18}
+ble_pack display.S_1_7_0_.m11_LC_30 {display.S_1_7_0_.m11}
+ble_pack display.S_1_7_0_.m13_LC_31 {display.S_1_7_0_.m13}
+ble_pack display.S_1_7_0_.m15_LC_32 {display.S_1_7_0_.m15}
+ble_pack display.S_1_7_0_.m16_LC_33 {display.S_1_7_0_.m16}
+ble_pack display.S_1_7_0_.m18_LC_34 {display.S_1_7_0_.m18}
+ble_pack display.S_1_7_0_.m19_LC_35 {display.S_1_7_0_.m19}
+ble_pack display.S_1_7_0_.m6_LC_37 {display.S_1_7_0_.m6}
+ble_pack counter1.Pre_Q[0]_LC_26 {counter1.Pre_Q[0], counter1.Pre_Q_RNO[0]}
+clb_pack PLB_7 {display.S_1_7_0_.m11_LC_30, display.S_1_7_0_.m13_LC_31, display.S_1_7_0_.m15_LC_32, display.S_1_7_0_.m16_LC_33, display.S_1_7_0_.m18_LC_34, display.S_1_7_0_.m19_LC_35, display.S_1_7_0_.m6_LC_37, counter1.Pre_Q[0]_LC_26}
+ble_pack counter1.Pre_Q[2]_LC_28 {counter1.Pre_Q[2], counter1.Pre_Q_RNO[2]}
+ble_pack counter1.Pre_Q[1]_LC_27 {counter1.Pre_Q[1], counter1.Pre_Q_RNO[1]}
+ble_pack counter1.Pre_Q[3]_LC_29 {counter1.Pre_Q[3], counter1.Pre_Q_RNO[3]}
+ble_pack display.S_1_7_0_.m2_LC_36 {display.S_1_7_0_.m2}
+ble_pack cntDiv_RNIETOH[25]_LC_0 {cntDiv_RNIETOH[25]}
+ble_pack LC_65 {CONSTANT_ONE_LUT4}
+clb_pack PLB_8 {counter1.Pre_Q[2]_LC_28, counter1.Pre_Q[1]_LC_27, counter1.Pre_Q[3]_LC_29, display.S_1_7_0_.m2_LC_36, cntDiv_RNIETOH[25]_LC_0, LC_65}
+ble_pack cntDiv[1]_LC_2 {cntDiv[1], cntDiv_RNO[1]}
+ble_pack cntDiv[0]_LC_1 {cntDiv[0], cntDiv_RNO[0]}
+clb_pack PLB_9 {cntDiv[1]_LC_2, cntDiv[0]_LC_1}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- *************************************************************************************
+FILE DESCRIPTION
+Max Top 5 critical clocks will be reported. For rest user needs to refer to Detailed report
+*******************************************************************************************-->
+<report_table display_priority="2" name="Timing Summary">
+<report_link name="Detailed report">
+<data>F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synlog\seven_seg_counter_fpga_mapper.srr</data>
+<title>START OF TIMING REPORT</title>
+</report_link>
+<row>
+<data tcl_name="clock_name">Clock Name</data>
+<data tcl_name="req_freq">Req Freq</data>
+<data tcl_name="est_freq">Est Freq</data>
+<data tcl_name="slack">Slack</data>
+</row>
+<row>
+<data>top|mclock</data>
+<data>132.4 MHz</data>
+<data>112.6 MHz</data>
+<data>-1.333</data>
+</row>
+</report_table>

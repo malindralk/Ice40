@@ -1,0 +1,11 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2020.12\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd":10:7:10:9|Top entity is set to top.
+@N: CD630 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd":10:7:10:9|Synthesizing work.top.behavioral.
+@N: CD630 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd":10:7:10:11|Synthesizing work.seven.behavioral.
+@N: CD630 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\counter.vhd":13:7:13:13|Synthesizing work.counter.archcounter.
+@N|Running in 64-bit mode
+@N: NF107 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd":10:7:10:9|Selected library: work cell: top view behavioral as top level
+@N: NF107 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd":10:7:10:9|Selected library: work cell: top view behavioral as top level
+

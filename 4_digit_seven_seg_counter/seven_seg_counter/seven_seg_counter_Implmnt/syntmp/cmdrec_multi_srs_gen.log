@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synwork\seven_seg_counter_comp.srs  -osyn  F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synwork\seven_seg_counter_mult.srs  -log  F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synlog\seven_seg_counter_multi_srs_gen.srr 
+rc:0 success:1 runtime:1
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synwork\seven_seg_counter_comp.srs|io:i|time:1642255638|size:3783|exec:0
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synwork\seven_seg_counter_mult.srs|io:o|time:1642255642|size:2848|exec:0
+file:F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven_seg_counter\seven_seg_counter_Implmnt\synlog\seven_seg_counter_multi_srs_gen.srr|io:o|time:1642255642|size:848|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1642108083|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1642108084|size:3947520|exec:1

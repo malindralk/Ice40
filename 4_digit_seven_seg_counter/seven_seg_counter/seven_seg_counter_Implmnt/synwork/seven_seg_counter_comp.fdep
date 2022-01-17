@@ -1,0 +1,32 @@
+#OPTIONS:"|-layerid|0|-orig_srs|F:\\MEL5250\\VHDL\\Ice40\\4_digit_seven_seg_counter\\seven_seg_counter\\seven_seg_counter_Implmnt\\synwork\\seven_seg_counter_comp.srs|-autotop|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work|-lib|work|-lib|work"
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_vhdl.exe":1642108083
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\location.map":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\std.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\snps_haps_pkg.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\std1164.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\numeric.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\umr_capim.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\arith.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\unsigned.vhd":1642108087
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vhd\\hyperents.vhd":1642108087
+#CUR:"F:\\MEL5250\\VHDL\\Ice40\\4_digit_seven_seg_counter\\counter.vhd":1642254480
+#CUR:"F:\\MEL5250\\VHDL\\Ice40\\4_digit_seven_seg_counter\\seven.vhd":1642254026
+#CUR:"F:\\MEL5250\\VHDL\\Ice40\\4_digit_seven_seg_counter\\top.vhd":1642255594
+0			"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\counter.vhd" vhdl
+1			"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd" vhdl
+2			"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\top.vhd" vhdl
+#Dependency Lists(Uses List)
+0 -1
+1 -1
+2 1 0
+#Dependency Lists(Users Of)
+0 2
+1 2
+2 -1
+#Design Unit to File Association
+module work top 2
+arch work top behavioral 2
+module work seven 1
+arch work seven behavioral 1
+module work counter 0
+arch work counter archcounter 0

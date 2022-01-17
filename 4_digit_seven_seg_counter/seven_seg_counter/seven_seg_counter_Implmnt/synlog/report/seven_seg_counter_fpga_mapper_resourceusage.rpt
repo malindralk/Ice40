@@ -1,0 +1,26 @@
+---------------------------------------
+Resource Usage Report for top 
+
+Mapping to part: ice40hx8kct256
+Cell usage:
+GND             2 uses
+SB_CARRY        47 uses
+SB_DFF          26 uses
+SB_DFFE         4 uses
+VCC             2 uses
+SB_LUT4         39 uses
+
+I/O ports: 13
+I/O primitives: 13
+SB_GB_IO       1 use
+SB_IO          12 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   30 (0%)
+
+@S |Mapping Summary:
+Total  LUTs: 39 (0%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 39 = 39 
+

@@ -1,0 +1,9 @@
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd":16:29:16:34|Signal DIGIT4 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd":16:22:16:27|Signal DIGIT3 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd":16:15:16:20|Signal DIGIT2 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\seven.vhd":16:8:16:13|Signal DIGIT1 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\test.vhd":14:32:14:37|Signal DIGIT4 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\test.vhd":14:25:14:30|Signal DIGIT3 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\test.vhd":14:18:14:23|Signal DIGIT2 is floating; a simulation mismatch is possible.
+@W: CL240 :"F:\MEL5250\VHDL\Ice40\4_digit_seven_seg_counter\test.vhd":14:11:14:16|Signal DIGIT1 is floating; a simulation mismatch is possible.
+
