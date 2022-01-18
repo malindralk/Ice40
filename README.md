@@ -11,8 +11,12 @@
 ### හැදින්වීම
 Ice40 ගබඩාව ක්ලෝන කර නවතම දත්ත සමුදාය බාගන්න:
 - HTTPS
+
       git clone --recursive https://github.com/malindralk/Ice40
+
 - Github CLI
+
       gh repo clone malindralk/Ice40
+      
 ### ප්රකාශන හිමිකම් බලපත්රය
 Ice40 ගබඩාවේ ඇති සියලුම කේතයන් [MIT බලපත්‍රය](LICENSE) යටතේ බලපත්‍ර ලබා ඇත.
