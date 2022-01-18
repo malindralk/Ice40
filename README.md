@@ -1,6 +1,6 @@
 # Ice40
 ## මෙම ගබඩාවේ LATTICE ice40 සඳහා vhdl මූලාශ්‍ර ගොනු අඩංගු වේ
-## [ICE40HX8k] (https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) by lattice semiconductor.
+- [ICE40HX8k](https://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) by lattice semiconductor.
 
 
 ### අන්තර්ගතය
