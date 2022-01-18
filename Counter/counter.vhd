@@ -24,7 +24,7 @@ architecture archicounter of counter is
 ----------------------------------------------------
 -- සංඥා / Signals
 signal Pre_output: std_logic_vector(nbit -1 downto 0);
-integer count_value:=9;-- ගණන් කිරීමේ අංකය
+constant count_value: integer:=9;-- ගණන් කිරීමේ අංකය
 ----------------------------------------------------
 begin
 ----------------------------------------------------
