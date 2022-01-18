@@ -18,3 +18,7 @@ entity counter is
         COUNTER_OUTPUT : out std_logic_vector( nbit -1 downto 0)
     );
 end counter;
+----------------------------------------------------
+architecture archicounter of counter is 
+----------------------------------------------------
+-- සංඥා / Signals
