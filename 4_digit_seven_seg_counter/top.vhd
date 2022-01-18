@@ -1,5 +1,6 @@
 ----------------------------------------------------
 -- VHDL code for Top Module
+-- මලින්ද්‍ර සේනාලංකාධිකාර,
 -- by Malindra Senalankadhikara, 2022/01/15
 -- 
 ----------------------------------------------------
@@ -29,9 +30,9 @@ end component;
 component counter
     Port(
         clock:	in std_logic;
-	    clear:	in std_logic;
-	    count:	in std_logic;
-	        Q: 	out std_logic_vector(3 downto 0)
+	clear:	in std_logic;
+	count:	in std_logic;
+	COUNTER_OUTPUT: 	out std_logic_vector(3 downto 0)
     );
 end component;
 ----------------------------------------------------
@@ -64,7 +65,7 @@ begin
 -- Component Declarations
 ----------------------------------------------------
 
-counter1: counter port map(cntDiv(25), LOW ,HIGH,value);
+counter1: counter port map(cntDiv(20), LOW ,HIGH,value);
 
 display: seven port map(value,Y);
 end Behavioral;
