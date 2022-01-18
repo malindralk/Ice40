@@ -3,5 +3,5 @@
 ## ICE40HX8k by lattice semiconductor.
 
 ### අන්තර්ගතය
-  - 4 digit seven segment counter 
+  - ඉලක්කම් හතරේ- හතේ කොටස් - කවුන්ටරය
 
