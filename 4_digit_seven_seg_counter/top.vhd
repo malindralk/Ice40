@@ -65,7 +65,7 @@ begin
 -- Component Declarations
 ----------------------------------------------------
 
-counter1: counter port map(cntDiv(20), LOW ,HIGH,value);
+counter1: counter port map(cntDiv(23), LOW ,HIGH,value);
 
 display: seven port map(value,Y);
 end Behavioral;
